@@ -9,4 +9,3 @@ python-decouple
 pyyaml
 psycopg2
 celery
-#
